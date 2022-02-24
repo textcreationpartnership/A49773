@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Concerning marriage a letter sent to G.F. and with it a copy of an answer to a friends letter concerning marriage, and some queries and his reply to the answer and queries and an additional to G.F.s reply containing 13 queries concerning marriage, also the manner how the parties intending marriage are to go together / published by Benjamin Lawrence by the consent and advice of friends.</title>
+            <author>Lawrence, Thomas, 1645?-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49773</idno>
+            <idno type="STC">Wing L684</idno>
+            <idno type="STC">ESTC R31690</idno>
+            <idno type="EEBO-CITATION">12245239</idno>
+            <idno type="OCLC">ocm 12245239</idno>
+            <idno type="VID">56919</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56919)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1507:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Concerning marriage a letter sent to G.F. and with it a copy of an answer to a friends letter concerning marriage, and some queries and his reply to the answer and queries and an additional to G.F.s reply containing 13 queries concerning marriage, also the manner how the parties intending marriage are to go together / published by Benjamin Lawrence by the consent and advice of friends.</title>
+                  <author>Lawrence, Thomas, 1645?-1714.</author>
+                  <author>Lawrence, Benjamin.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed : T.L.</note>
+                  <note>Attributed to Thomas Lawrence by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Errata : verso of t.p.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fox, George, 1624-1691. --  Something concerning marriage.</term>
+               <term>Marriage --  Religious aspects --  Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56919:1"/>
+            <pb facs="tcp:56919:1" rendition="simple:additions"/>
+            <p>CONCERNING MARRIAGE. A LETTER Sent to <hi>G. F.</hi>
+            </p>
+            <p>And with it, a Copy of an Anſwer to a Friends Letter CONCERNING MARRIAGE.</p>
+            <p>And ſome Queries, and his Reply to the Anſwer and Queries, and an Additional to <hi>G.F</hi>'s. Reply, contain<g ref="char:EOLhyphen"/>ing 13 Queries concerning Marriage; Alſo the manner how the parties intending Marriage are to go together.</p>
+            <p>Publiſhed by <hi>Benjamin Lawrence</hi> by the conſent and advice of Friends.</p>
+            <p>Printed in the Year 1663.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:56919:2"/>
+            <head>Faults eſcaped.</head>
+            <p>QUery 3. lin. 18, 19. ſhould be 27.28. Querie 5. lin. 21. ſhould be lines 29, 30. latter end of the 7. querie, next the words, <hi>Gods counſell and Gods time,</hi> before the word <hi>note</hi> is left out theſe words, <hi>others not anſwering Gods ſtirrings, yet think to deal ſure, ſure enough of trouble and ſorrow, a curſe and not a bleſſing.</hi> pag. 10. lin. 4. <hi>ſtaid</hi> for <hi>ſtirred;</hi> about the middle of the 10. pag. <hi>ſo in times</hi> is ſet for <hi>ſometimes;</hi> after Querie 13. ſtrike out <hi>a,</hi> and leave <hi>year after.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:56919:2"/>
+            <head>Concerning Marriage,</head>
+            <div type="letter">
+               <head>A Letter ſent to <hi>G. F.</hi>
+               </head>
+               <p>LOving friend, ſomething in anſwer to a friends Letter who deſired counſel concerning marriage, hath occaſi<g ref="char:EOLhyphen"/>oned ſeveral Queries. To the Anſwer and Queries if there be ſome Reply, it may do well.</p>
+               <closer>
+                  <signed>Thomas Lawrence.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>The Copy of an Anſwer to a friends Letter concerning Marriage.</head>
+               <p>FRiend, That marriage is Gods Ordinance, which is joyned in, and by the Lord. The honourable marriage is when the bed is undefiled, tranſgreſſion finiſhed, freedom from ſin witneſſed, victory over the world known, and the enmity kept under, an abſolute divorce from all that the firſt nature hath been wedded to, and committed uncleanneſs with, in the time of ignorance. When Lovers are moved and guided by the Light in coolneſs and moderation, waiting in Gods counſel, then the honourable marriage may be known in the Light, and all children of Light will have unity with it. When one man and one woman, out of tranſgreſſion, are joyned together in and by the Lord, let no man put them aſunder. Forbidding to marry is the doctrine of Devils.</p>
+               <p>But for any that cannot witneſs tranſgreſſion finiſhed, nor ſcarcely know what it is, who live in ſin, and ſay God hath joyned them in marriage, is it not a lie againſt God and his Ordinance? God inſtituted marriage before ſin was, and doth it when ſin is done away, and is the ſame for ever, who joyn<g ref="char:EOLhyphen"/>eth nothing but that which is pure; all that is haſty and han<g ref="char:EOLhyphen"/>kering after fleſhly motions, is not Gods moving: ſome have been obſerved not to have grown in truth, but deadneſs, and loſing the condition, have followed after marriage: nothing defiled is to be owned, much leſs to be endeavoured after.</p>
+               <closer>
+                  <signed>Thomas Lawrence.</signed>
+               </closer>
+            </div>
+            <div type="queries">
+               <pb n="2" facs="tcp:56919:3"/>
+               <head>Some Queries occaſioned by the foregoing Anſwer.</head>
+               <p n="1">1 WHether Joyning together in marriage by ſuch as cannot witneſs freedom from all ſin, be Gods Ordinance, or of the world?</p>
+               <p n="2">2. Whether the marriage-bed be undefiled whilſt any kind of ſin remaineth?</p>
+               <p n="3">3. What is the difference between ſuch as can witneſs free<g ref="char:EOLhyphen"/>dom from all ſin, and do keep the enmity under, and marry; and others that do not only live in ſin, but have enmity againſt them that hold there is a freedom from ſin?</p>
+               <p n="4">4. Whether children of Parents that are both or either of them free from tranſgreſſion, are conceived and born in ſin, or are they clean and holy?</p>
+               <p n="5">5. Whether deadneſs and loſing the condition have not fol<g ref="char:EOLhyphen"/>lowed ſome minding marriage?</p>
+            </div>
+            <div type="reply_to_queries">
+               <head>
+                  <hi>G.F.</hi> his Reply to the Anſwer and Queries ſent to <hi>T.L.</hi> by a friend, and is as followeth.</head>
+               <p> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">line </seg>1</label> FRiend, concerning Marriage, to know it as it was before <label type="milestone">
+                     <seg type="milestoneunit">line </seg>2</label> man fell, which were both in the image of God, that is <label type="milestone">
+                     <seg type="milestoneunit">line </seg>3</label> the ſtate out of the fall again of Gods joyning, not as man <label type="milestone">
+                     <seg type="milestoneunit">line </seg>4</label> joyns, but as God joyns; not joyned by the Laws of men, <label type="milestone">
+                     <seg type="milestoneunit">line </seg>5</label> but by the Power of God and his image, ſo to know the <label type="milestone">
+                     <seg type="milestoneunit">line </seg>6</label> Jews, that after they came out of Egypt they did go toge<g ref="char:EOLhyphen"/>ther, <label type="milestone">
+                     <seg type="milestoneunit">line </seg>7</label> and hardneſs of heart got up amongſt them, and there <label type="milestone">
+                     <seg type="milestoneunit">line </seg>8</label> was a Bill of divorcement given that they ſhould depart; but <label type="milestone">
+                     <seg type="milestoneunit">line </seg>9</label> in the beginning it was not ſo, when God made them Male <label type="milestone">
+                     <seg type="milestoneunit">line </seg>10</label> and Female; whom he joyns together, let none put aſun<g ref="char:EOLhyphen"/>der; <label type="milestone">
+                     <seg type="milestoneunit">line </seg>11</label> for men may put together and put aſunder again. <label type="milestone">
+                     <seg type="milestoneunit">line </seg>12</label> And the ſtate of the Chriſtians and Gentiles; there may <label type="milestone">
+                     <seg type="milestoneunit">line </seg>13</label> ſomething ſtir from the Lord, as particularly <hi>Heſter.</hi> And <label type="milestone">
+                     <seg type="milestoneunit">line </seg>14</label> though the Jews did go into hardneſs of heart afterwards, <label type="milestone">
+                     <seg type="milestoneunit">line </seg>15</label> there might be ſomething ſtirring of God at firſt; and <label type="milestone">
+                     <seg type="milestoneunit">line </seg>16</label> likewiſe the Apoſtle ſaith, It is better to marry then to <label type="milestone">
+                     <seg type="milestoneunit">line </seg>17</label> burn; ſhewing there is a ſtate to prevent the burning; it <label type="milestone">
+                     <seg type="milestoneunit">line </seg>18</label> was not a ſin in that ſtate: and there is a ſtate where the
+<pb n="3" facs="tcp:56919:3"/>
+                  <label type="milestone">
+                     <seg type="milestoneunit">line </seg>19</label> believing wife ſanctifies the unbelieving husband, and the <label type="milestone">
+                     <seg type="milestoneunit">line </seg>20</label> believing husband ſanctifies the unbelieving wife, elſe were <label type="milestone">
+                     <seg type="milestoneunit">line </seg>21</label> the children unholy, but now are they clean, which is <label type="milestone">
+                     <seg type="milestoneunit">line </seg>22</label> through the ſanctification, which is through the belief; <label type="milestone">
+                     <seg type="milestoneunit">line </seg>23</label> for he that believes hath paſſed from death to life, and ſo <label type="milestone">
+                     <seg type="milestoneunit">line </seg>24</label> from the ſin, and overcomes the ſin, and ſo then there is a <label type="milestone">
+                     <seg type="milestoneunit">line </seg>25</label> ſtate to be married as they were not, as paſſive; and none <label type="milestone">
+                     <seg type="milestoneunit">line </seg>26</label> of theſe ſtates that is kept in the power of the Lord God is <label type="milestone">
+                     <seg type="milestoneunit">line </seg>27</label> ſin, but to know it as it was in the beginning before man <label type="milestone">
+                     <seg type="milestoneunit">line </seg>28</label> fell that is a ſtate before defilement was; and none of theſe <label type="milestone">
+                     <seg type="milestoneunit">line </seg>29</label> ſtates are condemned; and all deadneſs and loſing the con<g ref="char:EOLhyphen"/>dition <label type="milestone">
+                     <seg type="milestoneunit">line </seg>30</label> comes in the going from the power of God.</p>
+               <closer>
+                  <signed>G.F.</signed>
+               </closer>
+            </div>
+            <div type="commentary_on_reply">
+               <head>An Additional to <hi>G. F.</hi> his Reply.</head>
+               <div type="prefatory_letter">
+                  <p>FRiend, I received from thee by the Carrier, <hi>G. F.</hi> his reply to the Anſwer and Letter of Queries, which appeared at firſt to whom it particularly concerned, as a parable; and to the thing in queſtion, but little anſwer. <hi>G.F.</hi> being told ſo, ſaid, he did uſually anſwer to the ground of a thing rather then the words. But this replie being weighed, is found ſo full (though ſhort) that it may ſerve for a ſtandard rule to anſwer all Que<g ref="char:EOLhyphen"/>ries that ever need be made concerning marriage. Take an ex<g ref="char:EOLhyphen"/>ample from the Queries ſent to <hi>G.F.</hi> and ſome more, being re<g ref="char:EOLhyphen"/>ferred to his lines, as followeth.</p>
+                  <closer>
+                     <signed>T. L.</signed>
+                  </closer>
+               </div>
+               <div type="detailed_comments">
+                  <p n="1">
+                     <hi>Querie.</hi> Whether joyning together in marriage by ſuch as cannot witneſs freedom from all ſin, be Gods ordinance, or of the World? <hi>Anſw.</hi> Gods joyning is a ſtate out of the fall again, by the power of God and his image, <hi>lines</hi> 1.2.3. Such as are redeemed out of the fall into the image of God, and marry, is Gods ordinance; and ſuch as are in the War, who cannot as yet witneſs freedom from all ſin, yet if they do believe there is ſuch a freedom, and do endeavour to attain it, who can wit<g ref="char:EOLhyphen"/>neſs a growth, and do abide faithful, and marry, this may be Gods ordinance alſo. In the time of ignorance God winked; but now ſuch as do not only deny freedom from ſin after they have been admoniſhed to the truth, but contend againſt it, af<g ref="char:EOLhyphen"/>firming
+<pb n="4" facs="tcp:56919:4"/>
+that none can be free from ſin on this ſide the grave, and not only live in ſin, but profeſs they muſt do ſo: if ſuch marry, their marriage is of the World, in the fall, out of the power of God and his image, not as God joyns; and though they may be faithful one to another, yet they are not faithful to God, out of the doctrine of Scripture, are in the defiled bed, their children unclean.</p>
+                  <p n="2">2 <hi>Querie.</hi> Whether the marriage bed be undefiled whilſt any kind of ſin remaineth? <hi>Anſw.</hi> He that believes, hath paſſed from death to life, and ſo from the ſin, and overcomes the ſin, <hi>Turn to G.F. Letter, pag</hi> 2. <hi>lines</hi> 23.24. To know marriage as it was in the beginning before man fell, is a ſtate before defile<g ref="char:EOLhyphen"/>ment was, <hi>lin.</hi> 27.28. and ſuch as live in ſin, and ſay they never look to be otherwiſe in this life, are not they in the defilement? is not all ſin defilement? is not their bed defiled, and all that they do? <hi>to the unclean all things are unclean,</hi> though they may be faithful each to other concerning bodily act. Here the ho<g ref="char:EOLhyphen"/>nourable marriage of Gods joyning, out of tranſgreſſion, goes over the head of the Worlds marriages of mans joyning in the ſin, though they boaſt and mock at the ſimplicity of truth, and them that live in it.</p>
+                  <p n="3">3 <hi>Querie.</hi> What is the difference between ſuch as can wit<g ref="char:EOLhyphen"/>neſs freedom from ſin, and do keep the enmity under, and marry; and others that do not only live in ſin, but are in en<g ref="char:EOLhyphen"/>mity againſt them that hold there is freedom from ſin? <hi>Anſw.</hi> The firſt are of Gods joyning, both in the image of God, out of the fall again, <hi>lin.</hi> 1.2. overcome the ſin, and marry as others do not; as paſſive, as it was in the beginning, before de<g ref="char:EOLhyphen"/>filement was, <hi>lin.</hi> 18.19. others joyn in their own wills and af<g ref="char:EOLhyphen"/>fections, out of the power of God and his image, not as God joyns, but as man joyns, have trouble in the fleſh, cares, differ<g ref="char:EOLhyphen"/>ing, children unclean, and many ſad effects which are incident to all marriages in the fall.</p>
+                  <p n="4">4 <hi>Querie.</hi> Whether children of Parents, who are both or either of them out of tranſgreſſion, are conceived and born in ſin, or are they clean and holy? <hi>Anſw.</hi> There is a ſtate where the believing wife ſanctifies the unbelieving husband, and the believing husband ſanctifies the unbelieving wife; elſe were
+<pb n="5" facs="tcp:56919:4"/>
+your children unholy, but now they are clean, which is through the ſanctification, which is through the belief; he that believer, hath paſſed from death to life, and ſo from the ſin, and over<g ref="char:EOLhyphen"/>comes the ſin: <hi>lin: from the</hi> 17. <hi>to the</hi> 27. Is it a ſmall thing to conſider? or did Parents ſeriouſly weigh what their children do inherit from them in the ſeed, it might be a motive to throughout ſanctification to all tender-hearted Parents, for their childrens ſake. <hi>Zachariah</hi> and <hi>Elizabeth</hi> both were juſt before God, and <hi>John</hi> was filled with the Holy Ghoſt from his Mothers womb; God created one man and one woman out of tranſgreſſion, <hi>Mal.</hi> 2. that he might have a godly ſeed to re<g ref="char:EOLhyphen"/>pleniſh the earth and ſubdue it.</p>
+                  <p n="5">5 <hi>Querie.</hi> Whether deadneſs and loſing the condition be not the more incident to ſome minding marriage? <hi>Anſw.</hi> All deadneſs and loſing the condition, comes in going from the power of God, <hi>lin.</hi> 21.</p>
+                  <p n="6">6 <hi>Querie.</hi> Whether children may not marry without con<g ref="char:EOLhyphen"/>ſent of Parents? and whether Parents may not give or deny their conſent to their children in marriage? <hi>Anſw.</hi> In the be<g ref="char:EOLhyphen"/>ginning God made them male and female; whom he joyns to<g ref="char:EOLhyphen"/>gether, let no man put aſunder, <hi>lin.</hi> 10.11. no not natural Pa<g ref="char:EOLhyphen"/>rents, but give their conſent; then anſwered <hi>Laban</hi> and <hi>Bethuel</hi> and ſaid, This thing is proceeded of the Lord, we cannot ſay unto thee evil nor good. Alſo ſpiritual Parents give their con<g ref="char:EOLhyphen"/>ſent. <hi>Paul</hi> gave his conſent to the Apoſtles, Biſhops, Miniſters, any, if need ſo require, let them marry, But ſuch marriages as man joyns, not as God joyns, Parents may deny their con<g ref="char:EOLhyphen"/>ſent; <hi>Paul</hi> denied his conſent, ſaying, Be not unequally yoked with Infidels, <hi>Iſaac</hi> and <hi>Rebecca</hi> denied their conſent, and <hi>Iſaac</hi> ſaid unto <hi>Jacob;</hi> Take not a wife of the daughters of <hi>Canaan,</hi> and <hi>Jacob</hi> obeyed his father and his mother, <hi>Gen.</hi> 28.7. Obey them that have the overſight of you, and ſubmit your ſelves, for they watch for your ſouls; be obedient to ſuch as have given themſelves to miniſter to the Saints, and to all that help with them, and labour. All Friends that intend marriage, take coun<g ref="char:EOLhyphen"/>ſel of the miniſters of truth, not conclude marriage firſt, and acquaint them with it after, but be obedient to Parents, that your days may be long in the land, and the earth may be re<g ref="char:EOLhyphen"/>pelniſhed
+<pb n="6" facs="tcp:56919:5"/>
+with an holy ſeed that may rule in righteouſneſs; who are obedient to their ſpiritual Parents, cannot diſobey their natural father and mother, who are not to force their chil<g ref="char:EOLhyphen"/>dren to marry againſt their conſent; the Parents and kindred called <hi>Rebecca,</hi> and ſaid, Wilt thou go with this man? and ſhe ſaid, I will go.</p>
+                  <p n="7">7 <hi>Querie.</hi> Whether any may know Gods will abſolute and infallible concerning their marriage, as whether ſuch a perſon be appointed of God to be a a fit help, foraſmuch as ſome have been ſo perſwaded, yet failed? <hi>Anſw.</hi> To know marriage as God joyns, is to know it as it was before man fell, <hi>lin.</hi> 1. a cer<g ref="char:EOLhyphen"/>tain knowledge, this is bone of my bone, and fleſh of my fleſh. <hi>Adam</hi> knew Gods appointment, <hi>Abraham</hi> knew Gods appoint<g ref="char:EOLhyphen"/>ment, and ſaid, God will ſend his Angel, and thou ſhalt take a wife for my ſon from thence. <hi>Laban</hi> and <hi>Bethuel</hi> knew Gods appointment, and ſaid, This thing is proceeded of the Lord, for this cauſe (Gods wil manifeſt, Gods appointment, Gods or<g ref="char:EOLhyphen"/>dinance) ſhall a man leave father and mother and cleave to his wife. Some marry in their own wills, and ſay it is Gods will; Can any be obedient to Gods will and not know it, or not know it certain? this the Worlds Preachers and Profeſſors cry, none is infallible ſay they; what then do they preach for? to make people doubt? or what ſhall any hear ſuch for, that can<g ref="char:EOLhyphen"/>not tell certain? Who abides in the light, are in the unity, joyned to the Lord, are one ſpirit, one in deſire, delight and ſweetneſs, one will; what man wills, God wills; if ye abide in me, and my words abide in you, ſaith Chriſt, ask what you will and it ſhall be done unto you; delight thy ſelf in the Lord, and thou ſhalt have the deſire of thine heart, not in thy own, but in Gods time. The Jews after they did come out of Egypt, did go together; there might be ſomething ſtirring of God at firſt, <hi>lin.</hi> 4.12. the ſtate of the Gentiles and the Chriſtians, there might be ſomething ſtirring from the Lord, as particularly <hi>Heſter, lin.</hi> 13. Jews, Gentiles, Chriſtians; Gods ſtirrings have been in all generations, and all Gods ſtirrings are abſolute and infallible, and that of God in every one, which Anſwers, is in<g ref="char:EOLhyphen"/>fallible; and when any one is reſtored out of the fall, his aſ<g ref="char:EOLhyphen"/>ſurance may be infallible alſo; though not ſo clear at firſt; it
+<pb n="7" facs="tcp:56919:5"/>
+is a growing condition, but in long tryal; a falſe faith from imagination, or a true Faith not continued in, may fail: This Query and Anſwer may charge ſuch who blame others for not anſwering God's witneſs in them according to their perſwaſion, when as the perſwaſion was from imagination only; or if they had ſtirrings of God, have not continued in the truth, and waited for God's counſel and Gods time;<note place="margin">Note.</note> this one thing is to be noted eſpe<g ref="char:EOLhyphen"/>cially, although this doctrine of abſolute and infallible aſſurance, is here occaſionally applyed to marri<g ref="char:EOLhyphen"/>age; it is alſo true in all other things, propheſies, promiſes and revelations, things ſpiritual and temporal, and all con<g ref="char:EOLhyphen"/>ditions, proſperity and affliction: <hi>Abraham</hi> had faith for a ſeed, <hi>David</hi> for a Kingdom, <hi>Jehoſaphat</hi> for Victory, the Cen<g ref="char:EOLhyphen"/>tution for his ſick ſervant, the poor woman for cure of her iſſue, and many the like in Scripture; and have been of ex<g ref="char:EOLhyphen"/>cellent uſe to many of God's ſervants, when he hath called them forth to ſufferings and tryals of any kind, though they might not have ſo clear and diſtinct knowledge of it, what it was at the preſent: <hi>Surely</hi> (ſaid <hi>Jacob) the Lord was in this place, and I was not aware.</hi>
+                  </p>
+                  <p>Qu. 8. <hi>How may one come to know this infallible aſſurance in himſelf, and not be deceived?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> How may one come to know infallibly the Sun ſhi<g ref="char:EOLhyphen"/>neth, but by his own light? The ſtate of the Chriſtians and the Gentiles, there might be ſomething ſtirring from the Lord, as particularly <hi>Heſter,</hi> lin. 13. and this is the moſt infallible and deepeſt ground of knowledge, the ſtirrings of God, the light in every conſcience, in which while any abide, they may be certain; <hi>If ye abide in me,</hi> ſaith Chriſt, <hi>Joh.</hi> 15. read it: But if any love to ſhut their eyes againſt what they know, by affected ignorance, through indulgence to ſeveral luſts, ſuch may ſay they have ſeen the ſun ſhine, and others tell them ſo, but they may be deceived, <hi>He that be<g ref="char:EOLhyphen"/>lieves, hath his witneſs in himſelf:</hi> The <hi>Jews</hi> after they came out of <hi>Egypt,</hi> did go together, and hardneſs of heart got up <hi>l.</hi> 7. there might be ſomething ſtirring of God at firſt, <hi>lin.</hi> 13. the time of diſcerning God's ſtirring to marriage clearly,
+<pb n="8" facs="tcp:56919:6"/>
+is after the coming out of Egypt, out of darknes into light, and they have put away the ſin, if any be perſwaded in their minds, that ſuch a perſon is appointed of God to be a fit help; then ſignifie ſo much to the partie, who at preſent may feel no ſuch thing, nor it may be, not in a long time after, yet take it off and lay it there; if after denials there be yet ſtirrings of God, wait in that of God which ſtirs, believe and ſubmit; a great myſtery! let go, yet hold faſt; ſubmiſſion and aſſurance may ſtand together, nay without ſubmiſſion aſſurance cannot ſtand; <hi>Abraham</hi> ſubmitted and offered up his only Son, yet he was fully aſſured that he who had promiſed, was alſo able to do it.</p>
+                  <p>Note, Although this doctrine concerning aſſurance of faith ſince the Apoſtacie have been denied by Preachers and Profeſ<g ref="char:EOLhyphen"/>ſors, in the time of the beaſt and falſe Prophet, yet it will ſtand over all their heads a truth according to Scripture. Witneſs the examples of <hi>Abraham, David,</hi> the Centurion, and many more, who all received according to their faith; the Lord may try and exerciſe his ſervants whom and when he pleaſeth; and when he gives ſuch a faith, he gives exerciſe. Gods promiſes are ever true, but oftentimes of long date.</p>
+                  <p n="9">9 Querie. Whether freedom from all ſin, and infallible aſſurance of Gods will be of abſolute neceſſity to every parti<g ref="char:EOLhyphen"/>cular that joyns in marriage? <hi>Anſw.</hi> He that believes, hath paſſed from death to life, and ſo from the ſin, and over<g ref="char:EOLhyphen"/>comes the ſin, <hi>lin.</hi> 23. 24. to have infallible aſſurance there is freedom from all ſin, to hunger and thirſt, and preſs after it, to witneſs a growth, to be ſincere in heart, and faithful to God in meaſure, is of abſolute neceſſity to marriage in the Lord. Who comes ſhort of this, are like <hi>Cain;</hi> he went out from the preſence of the Lord and knew his wife; Secondly, For the parties to have infallible aſſurance they are in Gods covenant, do believe and are qualified as aforeſaid, to ſee in the light the thing is well-pleaſing to God, and to have unity with friends in the truth is of abſolute neceſſity to Gods joyn<g ref="char:EOLhyphen"/>ing in every particular, but to have aſſurance that ſuch a per<g ref="char:EOLhyphen"/>ſon is appointed of God to be a fit help, is not of abſolute ne<g ref="char:EOLhyphen"/>ceſſity to every particular, but to ſuch only to whom God re<g ref="char:EOLhyphen"/>veals the thing.</p>
+                  <p>
+                     <pb n="9" facs="tcp:56919:6"/>
+                     <hi>Note.</hi> Let none wreſt truth to their own and others hurt; It hath not been ſaid that every true believer hath ſuch a par<g ref="char:EOLhyphen"/>ticular faith of aſſurance in every particular thing; nor are they condemned for not having ſuch aſſurance; but if any have the gift of faith, and faint in the way, he is condemned for his unbelief, <hi>Matth.</hi> 14.31. <hi>O thou of little faith, why didſt thou doubt?</hi> But if any being ſtirred of the Lord, do deſire ſuch a bleſſing as <hi>Abraham</hi> did an Heir, <hi>What wilt thou give me, ſeeing I go childleſs?</hi> or deſire a deliverance, as <hi>Jehoſaphat</hi> did, <hi>O God, we know not what to do, but our eyes are towards thee?</hi> Or to deſire longer life, as <hi>Hezekiah</hi> did; or that Chriſt's power might be manifeſt, as <hi>Peter</hi> did; God that ſtirred up ſuch a prayer, and hath given ſuch a faith in his Word that is in the heart, be<g ref="char:EOLhyphen"/>ing continued in, will moſt certasnly perform the thing.</p>
+                  <p>
+                     <hi>Obj. Abraham</hi> had an Angel to tell him <hi>Sarah</hi> his Wife ſhould have a ſon; ſo have we Chriſt Jeſus the Angel of the Cove<g ref="char:EOLhyphen"/>nant, he ſends forth Miniſtring ſpirits for the good of the heirs of ſalvation; it were well mankind did better know the guard, aſſiſtance, communion and fellowſhip of good Angels.</p>
+                  <p>
+                     <hi>Jehoſaphat</hi> had a Prophet to tell him of the deliverance; ſo have we a prophet of our brethren, that God hath raiſed ac<g ref="char:EOLhyphen"/>cording to his promiſe by <hi>Moſes</hi> the ſervant of the Lord; and whoſoever will not hear that prophet in ſuch a caſe, he ſhall be cut off from that enjoyment.</p>
+                  <p>
+                     <hi>Hezekiah</hi> had a promiſe that fifteen yeers ſhould be added to his life; ſo have we a promiſe, yea the ſame promiſe, if the ſame ſpirit of the Lord open and apply it, even for longer life: God made a promiſe to <hi>Joſhua, I will not leave thee nor forſake thee;</hi> the Authot to the <hi>Hebrews</hi> applyes it to all belie<g ref="char:EOLhyphen"/>vers, <hi>Heb</hi> 13.5. and all promiſes in Scripture are made good to every believer as God in wiſdom gives them out of his trea<g ref="char:EOLhyphen"/>ry: If a man have the Bible in his houſe, nay if he had all the promiſes in Scripture drawn up into a Catalogue, if he have not the ſame ſpirit that gave them forth, to open and apply them, or any particular of them, he is never the better for them all.</p>
+                  <p>
+                     <hi>Peter</hi> had Chriſt preſent with him, and Chriſt ſpoke to him to come on the water; ſo have we Chriſt preſent with us; the Word is nigh thee, in thy mouth and in thy heart, and God
+<pb n="10" facs="tcp:56919:7"/>
+hath ſpoken to us by his Son, and ſent the ſpirit of his Son in<g ref="char:EOLhyphen"/>to our hearts, and teacheth us to pray as we ought.</p>
+                  <p>
+                     <hi>Houſe and Land are the Inheritance of a Father,</hi> ſaid <hi>Solomon, but a prudent Wife cometh of the Lord:</hi> If any be ſtaid of the Lord to deſire his gift, and believe God's anſwer that he ſhall have a prudent Wife, then he may have ſuch aſſurance alſo it may be of the perſon, that <hi>Abraham</hi>'s ſervant had; even ſhe that ſaid, <hi>Drink, and I will give thy Camels drink;</hi> and of the time as <hi>Jehoſaphat</hi> and <hi>Eliſha</hi> had, <hi>to morrow,</hi> 2 Chron. 20. <hi>to morrow, this time,</hi> 2 Kings 7. and alſo of the means, an Angel, as <hi>Tobi<g ref="char:EOLhyphen"/>as</hi> had, <hi>Tob.</hi> from the 5. to the 13. chap. and as <hi>Abraham</hi> had for his ſervant; <hi>God will ſend his Angel, and thou ſhalt take a Wife for my ſon from thence:</hi> And we are come to Mount Sion, to the company of innumerable Angels: The Angels are pure, chaſt, modeſt ſpirits, and friendly, without deceit, who have joy in heaven when a ſinner converteth; and the Kingdom of Hea<g ref="char:EOLhyphen"/>ven is within you: Whoſoever hath a luſtful, laſcivious, falſe mind, the good Angel will not ſtay with ſuch: The Angel of the Lord encampeth about them that fear him; ſometimes contracted into one; the Angel of the Covenant, <hi>Peter's</hi> An<g ref="char:EOLhyphen"/>gel: An Angel ſlew one hundred and fourſcore thouſand of the army of <hi>Senacherib;</hi> and ſo in times enlarged to be more, two Angels, three Angels, ſeven Angels, twelve Legions of Angels, innumerable Angels, who have the teſtimony of Je<g ref="char:EOLhyphen"/>ſus, are Miniſtring Spirits, whether in a viſible form, as to <hi>A<g ref="char:EOLhyphen"/>braham</hi> and <hi>Tobias,</hi> or inviſible, as to <hi>Abraham's</hi> ſervant, and Chriſt, and in him to the heirs of ſalvation; the honourable marriage, out of tranſgreſſion, hath God, Angels, and all good men to encourage it.</p>
+                  <p>Qu 10. <hi>Seeing there may be denials, lets, and intermiſſions before the finiſhing of Marriage, and when it is finiſhed, to know certainly it was of God's ſtirring, and of God's joyning, may be a continual comfort; then how may one retain this certain knowledge, &amp; not loſe his condition?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> Loſing the condition cometh in going from the power of God, <hi>lin.</hi> 30. To hold this condition, keep innocent, a con<g ref="char:EOLhyphen"/>ſcience void of offence to God and man: When doubts ariſe, temptations come, and the many things cumber, heed no<g ref="char:EOLhyphen"/>thing but God, and what is of God; know nothing, do no<g ref="char:EOLhyphen"/>thing, be nothing but what thou beeſt in God; God all, ſelf
+<pb n="11" facs="tcp:56919:7"/>
+nothing: <hi>Enoch</hi> walked with God, and he was not; and when ye are clean through the Word which Chriſt hath ſpoken, keep the watch againſt relapſes, leſt they prove harder to cure then the firſt ſickneſs: If there be failings, doubts will ariſe, and trouble, and queſtioning of ſeveral kinds; as, Whether there be ſuch a Faith? or whether ſuch things whereof one hath been certainly perſwaded, was of God? which might be truly ſo, the ſtirrings of God not being diligently taken heed to, nor ſtayed in, but the mind drawn out into the many things; hardneſs got up, then followeth a divorce from all that communion and enjoyment.</p>
+                  <p>
+                     <hi>Note.</hi> This particular infallible aſſurance of faith, concerns all other things as well as marriage, as to have aſſurance of pardon of ſin, freedom from all ſin, perſeverance in the truth, deliverance out of trouble, and that the Kingdom, Dominion and greatneſs of the Kingdom under the whole Heaven, ſhall be given to the people of the Moſt High, freedom from wants, ſtreights, poverty, ſickneſs, and from the noiſom peſtilence.</p>
+                  <p>
+                     <hi>Qu.</hi> 11. <hi>Whether one that hath attained to ſuch aſſurance of faith, may not loſe it? Anſ.</hi> The <hi>Jews</hi> did go into hardneſs of heart afterward; there might be ſomething ſtir of God at firſt, <hi>l.</hi> 6. 10, 11. the people of <hi>Iſrael</hi> believed the Lord and his ſervant <hi>Moſes;</hi> but afterward they hearkened not, whoſe carkaſes fell in the Wilderneſs; yet their faith at firſt was not from ima<g ref="char:EOLhyphen"/>gination nor fiction, <hi>I ſaid that thy houſe, and the houſe of thy Fa<g ref="char:EOLhyphen"/>ther ſhould walk before me for ever; but now it ſhall not be ſo,</hi> ſaid the Lord to <hi>Eli; for they that honor me, I will honor.</hi> Diſobedience and unbelief may loſe eternal life, or any other bleſſing.</p>
+                  <p>
+                     <hi>Qu.</hi> 12. <hi>Whether ſuch as are of the true Religion, may marry with others that have been trained up in a falſe Religion? Anſ.</hi> The ſtate of the Chriſtians and Gentiles, there may be ſomething ſtir<g ref="char:EOLhyphen"/>ring from the Lord, as particularly <hi>Heſter,</hi> lin. 8, 9. who was made Queen to a Heathen King, <hi>Heſt.</hi> 2.17. and was a means to deliver her people and her Kindred from the bloody con<g ref="char:EOLhyphen"/>ſpiracy of <hi>Haman: Jacob</hi> married <hi>Labans</hi> Daughters, <hi>Leah</hi> and <hi>Rachel,</hi> and <hi>Rachel</hi> had ſtolne her father <hi>Laban's</hi> Idols, <hi>Gen.</hi> 31.32. which <hi>Laban</hi> called his gods, <hi>v.</hi> 30. <hi>Mahlon</hi> the ſon of <hi>Eli<g ref="char:EOLhyphen"/>melech,</hi> of <hi>Bethlem Judah,</hi> married <hi>Ruth</hi> a <hi>Moabite,</hi> and after him <hi>Boaz, Ruth</hi> 4.10. and <hi>Solomon</hi> married <hi>Pharoahs</hi> daughter an <hi>Egyptian;</hi> but ſhe was perſwaded to forget her Countrey and
+<pb n="12" facs="tcp:56919:8"/>
+Fathers houſe; and ſo did <hi>Ruth</hi> and <hi>Laban's</hi> daughters, and came into the Land of <hi>Iſrael;</hi> and the people that were in the Gates, and the Elders ſaid to <hi>Boaz, The Lord make thy wife as Rachel and Leah, which twain did build the Houſe of Iſrael:</hi> But what is all this to them who in the deceit, not ſtirred of God, for luſt, lucre, and ſelf-ends, marry the daughters of men not converted to the true Faith? The example of <hi>Heſter</hi> may af<g ref="char:EOLhyphen"/>ford two conſiderations, 1. That Friends of God know his ſe<g ref="char:EOLhyphen"/>crets ſometimes by extraordinary Revelations. 2. That ſuch examples are no preſidents for the people of the World to fol<g ref="char:EOLhyphen"/>low, no more then to go naked, to take a wife of Whoredoms, or offer up a ſons life, becauſe <hi>Abraham</hi> and ſome of the Pro<g ref="char:EOLhyphen"/>phets did ſo.</p>
+                  <p>Qu. 13. <hi>What may ſuch do as are in the doubting, who ſay in them<g ref="char:EOLhyphen"/>ſelves, Whether had I beſt marry, or abide? Whether had I beſt marry ſuch a perſon, or not? Anſ.</hi> The ſtate of the Chriſtians and the Gentiles; there may ſomething ſtir from the Lord, as particu<g ref="char:EOLhyphen"/>larly <hi>Heſter,</hi> l. 13. who having ſomething ſtir from the Lord for good ends, as followed, ſhe was perſwaded to receive the love of King <hi>Ahaſuerus</hi> a Heathen, who loved <hi>Heſter</hi> above all the women, and ſhe found grace and favour in his ſight, more then all the Virgins, ſo that he ſet the Crown of the Kingdom upon her head, and made her Queen inſtead of <hi>Vaſthi,</hi> and ſhe had the counſel and conſent of <hi>Mordecai,</hi> who took her for his own Daughter, <hi>Heſt.</hi> 2. and ſo ſhe became a deliverer and Nurſing-Mother in <hi>Iſrael,</hi> while captive in <hi>Babylon.</hi> So if any be perſwaded infallibly of Gods ſtirring, and Gods joining, all doubts are reſolved. All friends, every particular, until til they be perſwaded of Gods will certain and infallible con<g ref="char:EOLhyphen"/>cerning their marriage, were better forbear, and wait on God, in his Light to receive his counſel; how elſe do Friends differ from the World? the Light is the place of waiting for Gods ſtirring and manifeſtation; Gods ſtirring is the time for faith to act in what the light doth manifeſt, whether to be kept ſecret or declared. <hi>Heſter</hi> ſhewed it not to her people nor her kindred, for <hi>Mordecai</hi> had charged her ſhe ſhould not tell it; haſt thou faith, have it with thy ſelf before God. <hi>Paul</hi> had revelations not lawful to utter, and things to utter that ſome could not bear; but when a word came to the Prophets from the Lord, they did de<g ref="char:EOLhyphen"/>clare infallibly, This ſaith the Lord; and in the New Teſtament
+<pb n="13" facs="tcp:56919:8"/>
+as the ſpirit gave them utterance, and no otherways. But Prea<g ref="char:EOLhyphen"/>chers and Profeſſors ſince Antichriſts riſe and reign, ſay Revela<g ref="char:EOLhyphen"/>tion is ceaſed, and none now can know and ſpeak infallibly as the Prophets and Primitive Saints did; but learned men declare truths, according to Scripture; which is not true neither; for all the learned men in the World with all their Libraries and learn<g ref="char:EOLhyphen"/>ing, cannot know one line of Scripture but by revelation of the ſame ſpirit that gave it forth; and all that I have put this que<g ref="char:EOLhyphen"/>ſtion to, confeſs the ſame.</p>
+                  <p>Note, Now this Querie is ended, let none queſtion a year af<g ref="char:EOLhyphen"/>ter, whether particular abſolute infallible aſſurance be; but whe<g ref="char:EOLhyphen"/>ther Do I live in it, and am I diligent to attain and keep it to my comfort? Theſe Queries and Anſwers are to expel the confuſion that may ariſe in many, why ſome have aſſurance of faith in par<g ref="char:EOLhyphen"/>ticulars, and not others, and not finding it ordinary, by experi<g ref="char:EOLhyphen"/>ence, have denied infallible aſſurance wholly; and that all who have had ſtirrings to ſeek God and wait for his Counſel, might be certain, and to ſtop the haſty proceedings of ſome not rightly qualified, who though they profeſs truth, yet endeavour to mar<g ref="char:EOLhyphen"/>ry as the World do; alſo to denote unto others who are tender, their lawful liberty to marry in the Lord.</p>
+               </div>
+            </div>
+            <div type="advice">
+               <head>Admonition.</head>
+               <p n="1">1. To the unmarried, that they ſhut out all motions to mar<g ref="char:EOLhyphen"/>riage that are not of God.</p>
+               <p n="2">2. To the married, that they be helps to put away all ſin, and witneſs the bed undefiled.</p>
+               <p n="3">3. To them that would have married, and have had many of<g ref="char:EOLhyphen"/>fers, but failed, to conſider whether they have not been ignorant or negligent of Gods ſtirrings, and have followed carnal deſires, and ſelf-ends, the uſual provocations to the Worlds marriages; but to ſome that God will ſhew his loving kindneſs and favour, there are two ends of ſuch long delays in mercy, 1 To break down and utterly deſtroy the body of ſin and death, from whence carnal luſts and ſelf-ends ariſe. 2. To qualifie them to receive his bleſſing, to be married in the Lord, to know Gods call, Gods ſtirrings, and Gods will concerning marriage, by an abſolute and infallible knowledge and aſſurance, and ſo come out of the defile<g ref="char:EOLhyphen"/>ment, and come to enjoy the honourable marriage. But the Worlds marriages can never be happy, though they have their carnal deſires and ſelf-ends, in riches, honours, and pleaſures, &amp;c.
+<pb n="14" facs="tcp:56919:9"/>
+                  <hi>Cain Cham</hi> &amp; <hi>Eſau</hi> had riches, honors, &amp; pleaſures, Nations, Cities, Dukedoms, and Muſick, <hi>Tubal-Cain</hi> the firſt inventer of Organs; but <hi>Cain</hi> was a Vagabond out from the preſence of the Lord; <hi>Cham</hi> accurſed; and <hi>Eſau</hi> loſt the bleſſing, and all of them and their ſeed enemies to Gods people to this day, though they may abound in worldly wealth, pomp, and pleaſures.</p>
+               <p>If any object in mans wiſdom concerning this writing; firſt witneſs in life what is here declared in words, and try if that may not anſwer all objections.</p>
+               <div type="part">
+                  <head>The manner how parties intending marriage are to go together.</head>
+                  <p>Concerning the manner, ſee <hi>G.F.</hi> in his book concerning mar<g ref="char:EOLhyphen"/>riage, whereof here are ſome particulars inſerted;</p>
+                  <p>Firſt, After the thing is known between the parties themſelves, before any thing is concluded, let it be declared unto friends, who are able in the wiſdom and power of God to ſee and feel into it, if they ſee the thing in the light and power of God, to ſtand: Then 2. Declare it in the meeting, or meetings, to which the parties do belong, towards the end of the meeting by the parties themſelves, or ſome friend or friends, as they are moved, both parties being preſent. 3 If any have to object againſt it, then the matter be laid before friends the next general meeting, appointed to conſi<g ref="char:EOLhyphen"/>der of things relating to friends, to ſee into it and end it. 4 About twelve friends met together, they may declare their teſtimony how the Lord hath joyned them; there was a marriage in <hi>Canaan,</hi> and Chriſt and his Diſciples were called to it, not married in a corner by one called a Miniſter, for mony. 5 A Certificate by friends may be then given of the day, moneth and year, that it may be recorded. <hi>Rebecca's</hi> friends bleſſed her, ſo the people and Elders bleſſed <hi>Ruth,</hi> and ſo may friends do by words or ſilence, as moved of the Lord. 6 As any is moved, they may declare it to the Magiſtrate, or in the midſt of the Market, to ſuch parties out<g ref="char:EOLhyphen"/>ward dwelling if moved, (or they may not.) 7 The things that cannot be owned by all friends, and have unity within the power and ſpirit of God, may not be recorded. Who comes together as it was in the beginning, comes over the Jews, Gentiles, and Apoſtate Chriſtians, the honourable marriage, and the bed that is undefiled.</p>
+               </div>
+            </div>
+            <closer>
+               <signed>T. L.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:56919:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
